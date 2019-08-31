@@ -12,4 +12,4 @@ Clone:
 - Comando ls para validar a existência dos arquivos clonados (clone_009.png)
 
 
-LINHA ALTERADA NO GITHUB PARA SER FETCHED PELO GIT BASH.
+LINHA ALTERADA NO GITHUB PARA SER PULLED PELO GIT BASH.
