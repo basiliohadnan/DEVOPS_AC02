@@ -3,10 +3,13 @@ Nome: Hadnan Basilio
 RA: 1901020
 
 Clone:
-- Acessar tua conta no github, criar novo reposit髍io (clone_001.png)
-- Nomear novo reposit髍io, checar op玢o criar README, criar reposit髍io (clone_002.png)
+- Acessar tua conta no github, criar novo reposit贸rio (clone_001.png)
+- Nomear novo reposit贸rio, checar op莽茫o criar README, criar reposit贸rio (clone_002.png)
 - Abrir Git Bash, utilizar comando cd Documents/ e comando ls (clone_003.png)
-- Comando git clone 'link do reposit髍io' (clone_004.png)
+- Comando git clone 'link do reposit贸rio' (clone_004.png)
 - Comando ls para verificar se foi clonada a pasta do github (clone_006.png)
-- Comando cd 'nome do reposit髍io' para acessar a pasta que contenha o arquivo .git (clone_007.png)
-- Comando ls para validar a exist阯cia dos arquivos clonados (clone_009.png)
+- Comando cd 'nome do reposit贸rio' para acessar a pasta que contenha o arquivo .git (clone_007.png)
+- Comando ls para validar a exist锚ncia dos arquivos clonados (clone_009.png)
+
+
+LINHA ALTERADA NO GITHUB PARA SER PULLED PELO GIT BASH.
